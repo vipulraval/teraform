@@ -1,0 +1,2 @@
+print("hi how are you doing?")
+user=input(How you feeling)

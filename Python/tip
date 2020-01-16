@@ -1,0 +1,2 @@
+#calculate the tips for meal & drinks
+total amount = input("please enter the total bill amount")
